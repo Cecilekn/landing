@@ -1,0 +1,14 @@
+/* Your button CSS file */
+.btn-green{
+  background-color: #68DE89;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 50px;
+  font-weight: lighter;
+  transition: background 0.3s
+}
+
+.btn-green:hover {
+  cursor: pointer;
+  background-color: #5BC163;
+}

@@ -1,0 +1,13 @@
+.banner {
+  background-image: url('../../images/background.png');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-shadow: 10px 15px 20px black;
+  padding: 200px 0;
+}
+
+.banner p {
+  opacity: 0.7;
+  font-size: 20px;
+}

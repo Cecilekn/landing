@@ -1,0 +1,14 @@
+.list-inline {
+  list-style: none;
+  padding-left: 0;
+}
+
+.list-inline li {
+  display: inline;
+}
+
+.list-inline a {
+  color: #68DE89;
+  font-size: 30px;
+  padding: 6px;
+}
